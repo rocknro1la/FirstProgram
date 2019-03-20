@@ -13,10 +13,6 @@ int main()
 	std::cout << "\n"; 
 	std::cout << "\n";
 	wName();
-	wName();
-	wName();
-	wName();
-	wName();
 	system("PAUSE");
 }
 
