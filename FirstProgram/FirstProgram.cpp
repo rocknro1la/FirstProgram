@@ -9,6 +9,10 @@ int main()
 {
     wName();
 	std::cout << "\n";
+	std::cout << "\n";
+	std::cout << "\n"; 
+	std::cout << "\n";
+	wName();
 	system("PAUSE");
 }
 
