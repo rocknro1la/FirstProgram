@@ -1,0 +1,4 @@
+LIBRARY Dll1
+EXPORTS
+
+wName @1
